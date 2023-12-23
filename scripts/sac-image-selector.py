@@ -27,6 +27,6 @@ def handler(pdm: "pipedream"):
     urllib.request.urlretrieve(image_url, filename)
 
     media_upload_mastodon = mastodon.media_post(filename)
-    post = mastodon.status_post(item["text"], media_ids = media_upload_mastodon)
+    post = mastodon.status_post(item["text"], media_ids = media_upload_mastodon, sensitive = item["sensitive"])
 
     return post
