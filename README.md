@@ -4,4 +4,4 @@ Take screenshots from Ghost in Shell series and films and post them to Mastodon 
 
 Currently including the following content:
 
-- Stand Alone Context Series 1 episodes 1-14
+- Stand Alone Context Series 1 episodes 1-26
