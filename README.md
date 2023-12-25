@@ -4,11 +4,11 @@ Take screenshots from Ghost in Shell series and films and post them to Mastodon 
 
 Currently including the following content:
 
+- Ghost in the Shell (1995)
 - Stand Alone Complex series 1 episodes 1-26
 
 To be added:
 
-- Ghost in the Shell (film)
 - Stand Alone Complex 2nd GIG (series)
 - Innocence (film)
 - Stand Alone Complex − Solid State Society (film)
@@ -19,5 +19,5 @@ To be added:
 Might be added:
 
 - Ghost in the Shell 2.0 (film)
-- Ghost in the Shell (2017 live-action film)
+- Ghost in the Shell (2017)
 - SAC_2045 (series)
