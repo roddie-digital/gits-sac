@@ -6,11 +6,11 @@ Currently including the following content:
 
 - Ghost in the Shell (1995)
 - Stand Alone Complex series 1 episodes 1-26
+- Innocence
 
 To be added:
 
 - Stand Alone Complex 2nd GIG (series)
-- Innocence (film)
 - Stand Alone Complex − Solid State Society (film)
 - Arise (series)
 - The New Movie (film)
