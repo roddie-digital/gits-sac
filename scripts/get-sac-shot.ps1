@@ -1,11 +1,11 @@
 #!/bin/posh
 # 2023-12-21 https://roddie.digital
-# Extract screenshots from GitS:SAC episodes
+# Extract screenshots from Ghost in the Shell etc
 
-$minutes = 0..26
-$workdir = 'H:\bd\Ghost in the Shell'
-$episode = 'Ghost in the Shell_t00.mkv'
-$slug = 'gits-1995'
+$minutes = 0..40
+$workdir = 'H:\bd\Ghost in the Shell Innocence'
+$episode = 'Ghost in the Shell Innocence_t00.mkv'
+$slug = 'innocence'
 $jpgqual = 2
 
 $hour = '01'
@@ -14,10 +14,11 @@ $second2 = '30'
 $second3 = '15'
 $second4 = '45'
 
-$input = 'gits1995'
+$input = 'innocence'
 switch ($input) {
-    ('gits1995'){ $cwidth='1856'; $cheight='1003'; $xoffset='31'; $yoffset='38' }
-    default     { $cwidth='1920'; $cheight='1080'; $xoffset='0';  $yoffset='0'  }
+    ('gits1995') { $cwidth='1856'; $cheight='1003'; $xoffset='31'; $yoffset='38' }
+    ('innocence'){ $cwidth='1920'; $cheight='1036'; $xoffset='0'; $yoffset='22' }
+    default      { $cwidth='1920'; $cheight='1080'; $xoffset='0';  $yoffset='0'  }
 }
 
 foreach($i in $minutes){
@@ -54,4 +55,8 @@ foreach($i in $minutes){
 # ./ffmpeg.exe -ss 00:25:30 -i "$workdir\$episode" -frames:v 1 -q:v $jpgqual "$workdir\$slug-25-30.jpg" -v error
 
 
-# ./ffmpeg.exe -ss 00:28:01 -i "$workdir\$episode" -filter:v "crop=1856:1003:31:38" -frames:v 1 -q:v $jpgqual "$workdir\gits-1995-00-28-01.jpg"
+# ./ffmpeg.exe -ss 01:22:43 -i "$workdir\$episode" -filter:v $crop -frames:v 1 -q:v $jpgqual "$workdir\innocence-01-22-43.jpg"
+# ./ffmpeg.exe -ss 01:22:44 -i "$workdir\$episode" -filter:v $crop -frames:v 1 -q:v $jpgqual "$workdir\innocence-01-22-44.jpg"
+# ./ffmpeg.exe -ss 01:22:46 -i "$workdir\$episode" -filter:v $crop -frames:v 1 -q:v $jpgqual "$workdir\innocence-01-22-46.jpg"
+# ./ffmpeg.exe -ss 01:22:47 -i "$workdir\$episode" -filter:v $crop -frames:v 1 -q:v $jpgqual "$workdir\innocence-01-22-47.jpg"
+# ./ffmpeg.exe -ss 01:22:48 -i "$workdir\$episode" -filter:v $crop -frames:v 1 -q:v $jpgqual "$workdir\innocence-01-22-48.jpg"
