@@ -7,11 +7,11 @@ Currently including the following content:
 - Ghost in the Shell (1995)
 - Stand Alone Complex series 1 episodes 1-26
 - Innocence
+- Solid State Society
 
 To be added:
 
 - Stand Alone Complex 2nd GIG (series)
-- Stand Alone Complex − Solid State Society (film)
 - Arise (series)
 - The New Movie (film)
 - Pyrophoric Cult (Japan-only episode)
