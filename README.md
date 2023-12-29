@@ -8,11 +8,12 @@ Currently including the following content:
 - Stand Alone Complex series 1 episodes 1-26
 - Innocence
 - Solid State Society
+- Arise Borders 1 and 2 (use #SAContextArise to filter/mute)
 
 To be added:
 
 - Stand Alone Complex 2nd GIG (series)
-- Arise (series)
+- Arise Borders 3 and 4 (series)
 - The New Movie (film)
 - Pyrophoric Cult (Japan-only episode)
 
