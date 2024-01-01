@@ -4,16 +4,17 @@ Take screenshots from Ghost in Shell series and films and post them to Mastodon 
 
 Currently including the following content:
 
-- Ghost in the Shell (1995) #SAContext1995
-- Stand Alone Complex series 1 episodes 1-26 #SAContext
-- Innocence #SAContextInnocence
-- Solid State Society #SAContext
-- Arise - Borders 1-4 #SAContextArise
-- Arise - Pyrophoric Cult #SAContextArise
-- The New Movie #SAContextTNM
+- Ghost in the Shell (1995) (#SAContext1995)
+- Stand Alone Complex series 1 episodes 1 and 5 (#StandAloneContext)
+- Innocence (#SAContextInnocence)
+- Solid State Society (#SAContext)
+- Arise - Borders 1-4 (#SAContextArise)
+- Arise - Pyrophoric Cult (#SAContextArise)
+- The New Movie (#SAContextTNM)
 
 To be added:
 
+- The rest of Stand Alone Complex series 1
 - Stand Alone Complex 2nd GIG (series)
 
 Might be added:
