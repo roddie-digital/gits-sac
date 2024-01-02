@@ -5,7 +5,7 @@ Take screenshots from Ghost in Shell series and films and post them to Mastodon 
 Currently including the following content:
 
 - Ghost in the Shell (1995) (#SAContext1995)
-- Stand Alone Complex series 1 episodes 1, 2, 5 and 7 (#StandAloneContext)
+- Stand Alone Complex series 1 episodes 1, 2, 5, 6 and 7 (#StandAloneContext)
 - Innocence (#SAContextInnocence)
 - Solid State Society (#SAContext)
 - Arise - Borders 1-4 (#SAContextArise)
