@@ -1,3 +1,9 @@
+# 2023-02-12 Stefan Bohacek
+# https://botwiki.org/resource/tutorial/making-a-mastodon-bot-that-posts-random-images/
+
+# 2023-12-23 https://roddie.digital
+# - Added sensitivity flag for naughty images
+
 import io
 import os
 import random
