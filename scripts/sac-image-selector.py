@@ -8,11 +8,13 @@ import requests                # For making HTTP requests
 import urllib.request          # For downloading files from the internet
 import pandas as pd            # For data manipulation and analysis
 from mastodon import Mastodon  # For interacting with the Mastodon API
+from bsky_bridge import BskySession, post_image # For posting pics to Bluesky
 
 # URL to the CSV file containing data
 data_url = "https://raw.githubusercontent.com/roddie-digital/gits-sac/main/data.csv"
-# Path where the image will be saved temporarily
+# Path where the images will be saved temporarily
 filename = "/tmp/image.png"
+filename2 = "/tmp/image.jpg"
 
 def handler(pdm: "pipedream"):
     # Initialize the Mastodon client with access token and API base URL from environment variables
@@ -46,5 +48,26 @@ def handler(pdm: "pipedream"):
     media_upload_mastodon = mastodon.media_post(filename)
     # Post the status to Mastodon with the associated media
     post = mastodon.status_post(item["text"], media_ids=media_upload_mastodon, sensitive=item.get("sensitive", False))
+    
+    # Bluesky
+    # Randomly select a new item from the filtered data
+    item2 = random.choice(data)
+    image_url2 = item2["image_url"]  # Get the image URL from the selected item
 
-    return post  # Return the posted status
+    # Download the image from the image URL and save it to the specified filename
+    urllib.request.urlretrieve(image_url2, filename2)
+  
+    # Get the Bluesky environment variables
+    bsky_handle=os.environ.get("BLUESKY_HANDLE")
+    bsky_app_passwd=os.environ.get("BLUESKY_PASSWD")
+
+    # Create the Bluesky session
+    session = BskySession(bsky_handle, bsky_app_passwd)
+
+    # Create the Bluesky post
+    postText = item2["text"]
+    imagePath = filename2
+    response = post_image(session, postText, imagePath)
+    print(response)
+
+    return post  # Return the Mastodon posted status
