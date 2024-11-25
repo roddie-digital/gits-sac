@@ -2,7 +2,7 @@ Take screenshots from Ghost in Shell series and films and post them to Mastodon 
 
 The project was inspired by [Stefan Bohacek](https://stefanbohacek.online/@stefan) and his guide [Making a Mastodon bot that posts random images](https://botwiki.org/resource/tutorial/making-a-mastodon-bot-that-posts-random-images/). I modified his script to use image files stored in Github rather than Google Drive, removed the alt tag field and added a sensitivity field. The bot was originally made possible by [Colin Mitchell](https://muffin.industries/@colin)'s Mastodon server [botsin.space](https://botsin.space).
 
-Currently including the following content:
+Mastodon currently including the following content:
 
 - Ghost in the Shell (1995) [#SAContext1995](https://roddie.social/tags/SAContext1995)
 - Stand Alone Complex series 1 episodes 1-7 [#StandAloneContext](https://roddie.social/tags/StandAloneContext)
@@ -12,13 +12,18 @@ Currently including the following content:
 - Arise - Pyrophoric Cult [#SAContextArise](https://roddie.social/tags/SAContextArise)
 - The New Movie [#SAContextTNM](https://roddie.social/tags/SAContextTNM)
 
+Bluesky currently including the following content:
+
+- SAC_2045 series 1 episodes 1-6
+
 To be added:
 
 - The rest of Stand Alone Complex series 1
 - Stand Alone Complex 2nd GIG (series)
+- The rest of SAC_2045 (series)
 
 Might be added:
 
 - Ghost in the Shell 2.0 (film)
 - Ghost in the Shell (2017)
-- SAC_2045 (series)
+
