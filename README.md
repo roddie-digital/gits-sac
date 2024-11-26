@@ -14,7 +14,8 @@ Mastodon bot currently including the following content:
 
 Bluesky bot currently including the following content:
 
-- SAC_2045 series 1 episodes 1-12 [#SAC2045](https://bsky.app/hashtag/SAC2045)
+- SAC_2045 all series 1 [#SAC2045](https://bsky.app/hashtag/SAC2045)
+- SAC_2045 series 2 episodes 1-6 [#SAC2045](https://bsky.app/hashtag/SAC2045)
 
 To be added:
 
