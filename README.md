@@ -14,16 +14,16 @@ Mastodon bot currently including the following content:
 
 Bluesky bot currently including the following content:
 
-- SAC_2045 all series 1 [#SAC_2045](https://bsky.app/hashtag/SAC_2045) [#SAC2045](https://bsky.app/hashtag/SAC2045)
-- SAC_2045 series 2 episodes 1-6 [#SAC_2045](https://bsky.app/hashtag/SAC_2045) [#SAC2045](https://bsky.app/hashtag/SAC2045)
+- SAC_2045 all episodes [#SAC_2045](https://bsky.app/hashtag/SAC_2045) [#SAC2045](https://bsky.app/hashtag/SAC2045)
 
 To be added:
 
 - The rest of Stand Alone Complex series 1
 - Stand Alone Complex 2nd GIG (series)
-- SAC_2045 series 2 episodes 7-12
 
 Might be added:
 
+- SAC_2045 Sustainable War
+- SAC_2045 The Last Human
 - Ghost in the Shell 2.0 (film)
 - Ghost in the Shell (2017)
