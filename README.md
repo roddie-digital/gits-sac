@@ -7,7 +7,7 @@ The project was inspired by [Stefan Bohacek](https://stefanbohacek.online/@stefa
 Mastodon bot currently including the following content:
 
 - Ghost in the Shell (1995) [#SAContext1995](https://roddie.social/tags/SAContext1995)
-- Stand Alone Complex series 1 episodes 1-18 [#StandAloneContext](https://roddie.social/tags/StandAloneContext)
+- Stand Alone Complex series 1 episodes 1-19 [#StandAloneContext](https://roddie.social/tags/StandAloneContext)
 - Innocence [#SAContextInnocence](https://roddie.social/tags/SAContextInnocence)
 - Solid State Society [#SAContext](https://roddie.social/tags/SAContext)
 - Arise - Borders 1-4 [#SAContextArise](https://roddie.social/tags/SAContextArise)
