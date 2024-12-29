@@ -1,13 +1,15 @@
 Take screenshots from Ghost in Shell series and films and post them to Mastodon and Bluesky every two hours. Toots with no interaction auto-delete after two weeks. Blu-rays are ripped with MakeMKV, screenshots are taken with [FFmpeg](https://ffmpeg.org/) (via a Powershell script snapping every 𝑥 seconds) and Pipedream runs a Python script using the [Mastodon.py](https://pypi.org/project/Mastodon.py/) wrapper and the [bsky-bridge](https://pypi.org/project/bsky-bridge/) library to post (different) images on [Mastodon](https://roddie.social/@ghostintheshell) and [Bluesky](https://bsky.app/profile/ghostintheshell.roddie.digital). Posts are tagged with specific hashtags in case followers want to mute Arise or maybe everything except the 1995 film, for example. Both accounts are also bridged to the other side using [Bridgy Fed](https://fed.brid.gy/) with the users [@ghostintheshell.roddie.social](https://bsky.app/profile/ghostintheshell.roddie.social) and `@ghostintheshell.roddie.digital@bsky.brid.gy`.
 
-Please note Bluesky made a change that requires the aspect ratio to be sent with an image or it will be previewed within a square box. Since Bridgy Fed does not do any image processing, images bridged to Bluesky will be displayed like this and it's not currently in Bridgy Fed's scope to handle this change. If you click through to the image you can still see it in full without the borders.
+⚠️ Please note Bluesky made a change that requires the aspect ratio to be sent with an image or it will be previewed within a square box. Since Bridgy Fed does not do any image processing, images bridged to Bluesky will be displayed like this and it's not currently in Bridgy Fed's scope to handle this change. If you click through to the image you can still see it in full without the borders.
+
+⚠️ There's also an issue when new posts are bridged to Bluesky if the image has previously been selected but has since been deleted for being older than two weeks. Bridgy Fed may be able to implement a solution for this but for now it means some posts will appear with a blank image.
 
 The project was inspired by [Stefan Bohacek](https://stefanbohacek.online/@stefan) and his guide [Making a Mastodon bot that posts random images](https://botwiki.org/resource/tutorial/making-a-mastodon-bot-that-posts-random-images/). I modified his script to use image files stored in Github rather than Google Drive, removed the alt tag field and added a sensitivity field. The bot was originally made possible by [Colin Mitchell](https://muffin.industries/@colin)'s Mastodon server [botsin.space](https://botsin.space). Both Mastodon.py and bsky-bridge modules are licensed under [MIT licences](licences).
 
 Mastodon bot currently including the following content:
 
 - Ghost in the Shell (1995) [#SAContext1995](https://roddie.social/tags/SAContext1995)
-- Stand Alone Complex series 1 episodes 1-19 [#StandAloneContext](https://roddie.social/tags/StandAloneContext)
+- Stand Alone Complex series 1 episodes 1-20 [#StandAloneContext](https://roddie.social/tags/StandAloneContext)
 - Innocence [#SAContextInnocence](https://roddie.social/tags/SAContextInnocence)
 - Solid State Society [#SAContext](https://roddie.social/tags/SAContext)
 - Arise - Borders 1-4 [#SAContextArise](https://roddie.social/tags/SAContextArise)
