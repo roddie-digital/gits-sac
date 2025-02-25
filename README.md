@@ -2,7 +2,7 @@ Take screenshots from Ghost in Shell series and films and post them to Mastodon 
 
 ~~⚠️ Please note Bluesky made a change that requires the aspect ratio to be sent with an image or it will be previewed within a square box. Since Bridgy Fed does not do any image processing, images bridged to Bluesky will be displayed like this and it's not currently in Bridgy Fed's scope to handle this change. If you click through to the image you can still see it in full without the borders.~~
 
-⚠️ There's also an issue when new posts are bridged to Bluesky if the image has previously been selected but has since been deleted for being older than two weeks. Bridgy Fed may be able to implement a solution for this but for now it means some posts will appear with a blank image.
+~~⚠️ There's also an issue when new posts are bridged to Bluesky if the image has previously been selected but has since been deleted for being older than two weeks. Bridgy Fed may be able to implement a solution for this but for now it means some posts will appear with a blank image.~~
 
 The project was inspired by [Stefan Bohacek](https://stefanbohacek.online/@stefan) and his guide [Making a Mastodon bot that posts random images](https://botwiki.org/resource/tutorial/making-a-mastodon-bot-that-posts-random-images/). I modified his script to use image files stored in Github rather than Google Drive, removed the alt tag field and added a sensitivity field. The bot was originally made possible by [Colin Mitchell](https://muffin.industries/@colin)'s Mastodon server [botsin.space](https://botsin.space). Both Mastodon.py and bsky-bridge modules are licensed under [MIT licences](licences).
 
