@@ -12,6 +12,7 @@ Mastodon bot currently including the following content:
 - Arise - Borders 1-4 [#SAContextArise](https://roddie.social/tags/SAContextArise)
 - Arise - Pyrophoric Cult [#SAContextArise](https://roddie.social/tags/SAContextArise)
 - The New Movie [#SAContextTNM](https://roddie.social/tags/SAContextTNM)
+- The Ghost in the Shell (2026) teaser trailers [#TheStandAloneContext](https://roddie.social/tags/TheStandAloneContext)
 
 Bluesky bot currently including the following content:
 
