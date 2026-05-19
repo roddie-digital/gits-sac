@@ -22,6 +22,7 @@ To be added:
 
 - The rest of Stand Alone Complex 2nd GIG (series)
 - Upgrade Ghost in the Shell (1995) to 4K rips
+- Cutscenes from the 1997 PSX game
 - Upgrade SAC_2045 from Netflix to Blu-ray rips
 
 Might be added:
