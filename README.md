@@ -4,19 +4,19 @@ The project was inspired by [Stefan Bohacek](https://stefanbohacek.online/@stefa
 
 Mastodon bot currently including the following content:
 
-- Ghost in the Shell (1995) [#SAContext1995](https://roddie.social/tags/SAContext1995)
-- Stand Alone Complex series 1 episodes 1-26 [#StandAloneContext](https://roddie.social/tags/StandAloneContext)
-- Stand Alone Complex 2nd GiG episodes 1-26 [#StandAloneContext](https://roddie.social/tags/StandAloneContext)
-- Innocence [#SAContextInnocence](https://roddie.social/tags/SAContextInnocence)
-- Solid State Society [#SAContext](https://roddie.social/tags/SAContext)
-- Arise - Borders 1-4 [#SAContextArise](https://roddie.social/tags/SAContextArise)
-- Arise - Pyrophoric Cult [#SAContextArise](https://roddie.social/tags/SAContextArise)
-- The New Movie [#SAContextTNM](https://roddie.social/tags/SAContextTNM)
-- The Ghost in the Shell (2026) two episodes and teaser trailers [#TheStandAloneContext](https://roddie.social/tags/TheStandAloneContext)
+- Ghost in the Shell (1995) [#SAContext1995](https://roddie.social/tags/SAContext1995) [🦋](https://bsky.app/hashtag/SAContext1995?author=ghostintheshell.roddie.social)
+- Stand Alone Complex series 1 episodes 1-26 [#StandAloneContext](https://roddie.social/tags/StandAloneContext) [🦋](https://bsky.app/hashtag/StandAloneContext?author=ghostintheshell.roddie.social)
+- Stand Alone Complex 2nd GiG episodes 1-26 [#StandAloneContext](https://roddie.social/tags/StandAloneContext) [🦋](https://bsky.app/hashtag/StandAloneContext?author=ghostintheshell.roddie.social)
+- Innocence [#SAContextInnocence](https://roddie.social/tags/SAContextInnocence) [🦋](https://bsky.app/hashtag/SAContextInnocence?author=ghostintheshell.roddie.social)
+- Solid State Society [#StandAloneContext](https://roddie.social/tags/StandAloneContext) [🦋](https://bsky.app/hashtag/StandAloneContext?author=ghostintheshell.roddie.social)
+- Arise - Borders 1-4 [#SAContextArise](https://roddie.social/tags/SAContextArise) [🦋](https://bsky.app/hashtag/SAContextArise?author=ghostintheshell.roddie.social)
+- Arise - Pyrophoric Cult [#SAContextArise](https://roddie.social/tags/SAContextArise) [🦋](https://bsky.app/hashtag/SAContextArise?author=ghostintheshell.roddie.social)
+- The New Movie [#SAContextTNM](https://roddie.social/tags/SAContextTNM) [🦋](https://bsky.app/hashtag/SAContextTNM?author=ghostintheshell.roddie.social)
+- The Ghost in the Shell (2026) two episodes and teaser trailers [#TheStandAloneContext](https://roddie.social/tags/TheStandAloneContext) [🦋](https://bsky.app/hashtag/TheStandAloneContext?author=ghostintheshell.roddie.social)
 
 Bluesky bot currently including the following content:
 
-- SAC_2045 all episodes [#SAC_2045](https://bsky.app/hashtag/SAC_2045) [#SAC2045](https://bsky.app/hashtag/SAC2045)
+- SAC_2045 all episodes [#SAC_2045](https://bsky.app/hashtag/SAC_2045) [Ⓜ️](https://roddie.social/tags/SAC_2045) [#SAC2045](https://bsky.app/hashtag/SAC2045) [Ⓜ️](https://roddie.social/tags/SAC2045)
 
 To be added:
 
