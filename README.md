@@ -12,7 +12,7 @@ Mastodon bot currently including the following content:
 - Arise - Borders 1-4 [#SAContextArise](https://roddie.social/tags/SAContextArise) [🦋](https://bsky.app/hashtag/SAContextArise?author=ghostintheshell.roddie.social)
 - Arise - Pyrophoric Cult [#SAContextArise](https://roddie.social/tags/SAContextArise) [🦋](https://bsky.app/hashtag/SAContextArise?author=ghostintheshell.roddie.social)
 - The New Movie [#SAContextTNM](https://roddie.social/tags/SAContextTNM) [🦋](https://bsky.app/hashtag/SAContextTNM?author=ghostintheshell.roddie.social)
-- The Ghost in the Shell (2026) two episodes and teaser trailers [#TheStandAloneContext](https://roddie.social/tags/TheStandAloneContext) [🦋](https://bsky.app/hashtag/TheStandAloneContext?author=ghostintheshell.roddie.social)
+- The Ghost in the Shell (2026) three episodes and all teaser trailers [#TheStandAloneContext](https://roddie.social/tags/TheStandAloneContext) [🦋](https://bsky.app/hashtag/TheStandAloneContext?author=ghostintheshell.roddie.social)
 
 Bluesky bot currently including the following content:
 
